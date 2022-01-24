@@ -1,5 +1,11 @@
 # Social-Media-UI-with-Material-UI
 
+
+https://user-images.githubusercontent.com/72337379/150742941-4431ac45-4459-4479-8bed-20e545398e69.mp4
+
+
+
+
 https://social-media-ui.netlify.app/
 
 Purpose : 
@@ -12,11 +18,6 @@ Concepts learned :
 2. Making components responsive with MUI
 3. Learnt to use many of the MUI components
 
-![image](https://user-images.githubusercontent.com/72337379/150683460-846aeb02-f717-4870-a66a-b31ad6fd59f0.png)
-
-
-
-![image](https://user-images.githubusercontent.com/72337379/150683664-309a4740-6091-447b-bf61-925ccebb1009.png)
 
 
 
